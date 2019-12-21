@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/TariffComparison/bin/Debug/netcoreapp3.0
+/TariffComparison/obj
+/TariffComparison.Tests/bin/Debug/netcoreapp3.1
+/TariffComparison.Tests/obj
+/TariffComparison/TariffComparison.csproj.user
